@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Nour Sanchez"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a M.Sc. Aerospace Engineering passionate about data science."
   location         : "Stockholm, Sweden"
   email            :
@@ -102,7 +102,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:noursanchezabad@gmail.com
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/noursanchezabad/"
     - label: "Twitter"
