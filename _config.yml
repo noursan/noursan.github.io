@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Nour Sanchez"
   avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a M.Sc. Aerospace Engineering passionate about data science."
+  bio              : "M.Sc. in Physics and Aerospace Engineering. Passionate about data science."
   location         : "Stockholm, Sweden"
   email            :
   links:
